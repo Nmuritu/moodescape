@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "total_tests": 20,
+    "passed_tests": 14,
+    "failed_tests": 6,
+    "success_rate": 70.0
+  },
+  "categories": {
+    "General": {
+      "passed": 5,
+      "failed": 6,
+      "total": 11
+    },
+    "Startup Script": {
+      "passed": 2,
+      "failed": 0,
+      "total": 2
+    },
+    "File Check": {
+      "passed": 7,
+      "failed": 0,
+      "total": 7
+    }
+  },
+  "results": [
+    {
+      "test": "Backend Health",
+      "success": true,
+      "message": "Backend is running - Version 1.0.0",
+      "timestamp": "2025-10-07T23:11:43.288597"
+    },
+    {
+      "test": "Preview Session Creation",
+      "success": true,
+      "message": "Session created: 78f07b3e...",
+      "timestamp": "2025-10-07T23:11:43.317237"
+    },
+    {
+      "test": "Preview Mood Entry",
+      "success": false,
+      "message": "Status code: 422",
+      "timestamp": "2025-10-07T23:11:43.342688"
+    },
+    {
+      "test": "Preview AI Analysis",
+      "success": false,
+      "message": "Status code: 422",
+      "timestamp": "2025-10-07T23:11:43.359339"
+    },
+    {
+      "test": "Preview Insights",
+      "success": true,
+      "message": "Insights generated successfully",
+      "timestamp": "2025-10-07T23:11:43.399992"
+    },
+    {
+      "test": "User Registration",
+      "success": false,
+      "message": "Status code: 422",
+      "timestamp": "2025-10-07T23:11:43.430640"
+    },
+    {
+      "test": "Admin Login",
+      "success": false,
+      "message": "Status code: 422",
+      "timestamp": "2025-10-07T23:11:43.455963"
+    },
+    {
+      "test": "Admin Functionality",
+      "success": false,
+      "message": "No admin token available",
+      "timestamp": "2025-10-07T23:11:43.456962"
+    },
+    {
+      "test": "AI Features",
+      "success": false,
+      "message": "No admin token available",
+      "timestamp": "2025-10-07T23:11:43.457034"
+    },
+    {
+      "test": "OS Detection",
+      "success": true,
+      "message": "Running on Linux 6.12.38+kali-amd64",
+      "timestamp": "2025-10-07T23:11:43.457177"
+    },
+    {
+      "test": "Startup Script: start_backend.sh",
+      "success": true,
+      "message": "Script exists",
+      "timestamp": "2025-10-07T23:11:43.457265"
+    },
+    {
+      "test": "Startup Script: start_mobile.sh",
+      "success": true,
+      "message": "Script exists",
+      "timestamp": "2025-10-07T23:11:43.457329"
+    },
+    {
+      "test": "File Check: App.tsx",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.457430"
+    },
+    {
+      "test": "File Check: package.json",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.457486"
+    },
+    {
+      "test": "File Check: src/screens/HomeScreen.tsx",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.458653"
+    },
+    {
+      "test": "File Check: src/screens/SettingsScreen.tsx",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.458731"
+    },
+    {
+      "test": "File Check: src/screens/AdminPanelScreen.tsx",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.458781"
+    },
+    {
+      "test": "File Check: src/screens/PreviewScreen.tsx",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.458836"
+    },
+    {
+      "test": "File Check: src/services/apiService.ts",
+      "success": true,
+      "message": "File exists",
+      "timestamp": "2025-10-07T23:11:43.458887"
+    },
+    {
+      "test": "Mobile App Structure",
+      "success": true,
+      "message": "All required files present",
+      "timestamp": "2025-10-07T23:11:43.458917"
+    }
+  ],
+  "timestamp": "2025-10-07T23:11:43.462822"
+}

@@ -2,7 +2,7 @@
 
 A comprehensive mood tracking application built with React Native (Expo) for Android and a Python FastAPI backend with advanced AI capabilities.
 
-## 🌟 Features
+##  Features
 
 ### Mobile App (React Native/Expo)
 - **Mood Tracking**: Log daily mood, energy, stress, and sleep levels
@@ -20,7 +20,7 @@ A comprehensive mood tracking application built with React Native (Expo) for And
 - **RESTful API**: Comprehensive API for all app functionality
 - **Database Integration**: SQLAlchemy with SQLite/PostgreSQL support
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -86,7 +86,7 @@ A comprehensive mood tracking application built with React Native (Expo) for And
 
 The API will be available at `http://localhost:8000`
 
-## 📱 App Screens
+##  App Screens
 
 ### Home Screen
 - Daily mood overview
@@ -138,7 +138,7 @@ The API will be available at `http://localhost:8000`
 - **Actionable**: Specific, implementable suggestions
 - **Proactive**: Anticipate needs based on patterns
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Core Tables
 - **Users**: User accounts and authentication
@@ -148,7 +148,7 @@ The API will be available at `http://localhost:8000`
 - **Activities**: Trackable activities and their mood impact
 - **AI Models**: Stored ML models and their performance
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### Mood Tracking
 - `POST /api/mood-entries` - Create mood entry
@@ -172,7 +172,7 @@ The API will be available at `http://localhost:8000`
 - `GET /api/profile` - Get user profile
 - `PUT /api/profile` - Update user profile
 
-## 🎨 Design System
+##  Design System
 
 ### Colors
 - **Primary**: #6366f1 (Indigo)
@@ -192,7 +192,7 @@ The API will be available at `http://localhost:8000`
 - **Inputs**: Clean borders, focus states
 - **Charts**: Interactive, responsive
 
-## 🧪 Testing
+##  Testing
 
 ### Mobile App
 ```bash
@@ -206,7 +206,7 @@ cd backend
 pytest
 ```
 
-## 📦 Deployment
+##  Deployment
 
 ### Mobile App
 1. **Build for production:**
@@ -231,7 +231,7 @@ pytest
    - Configure environment variables
    - Set up database connection
 
-## 🔒 Security
+##  Security
 
 - **Authentication**: JWT tokens for API access
 - **Data Encryption**: Sensitive data encrypted at rest
@@ -239,7 +239,7 @@ pytest
 - **Rate Limiting**: API rate limiting to prevent abuse
 - **CORS**: Configured for secure cross-origin requests
 
-## 📊 Performance
+##  Performance
 
 ### Mobile App
 - **Optimized Images**: Compressed and cached
@@ -253,7 +253,7 @@ pytest
 - **Async Processing**: Non-blocking operations
 - **Model Caching**: Pre-trained models cached
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -261,11 +261,11 @@ pytest
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Expo**: For the amazing React Native platform
 - **FastAPI**: For the high-performance Python framework
@@ -273,10 +273,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **React Native Chart Kit**: For beautiful charts
 - **Ionicons**: For the icon library
 
-## 📞 Support
+##  Support
 
 For support, email support@moodscape.app or create an issue on GitHub.
 
 ---
 
-**Built with ❤️ for better mental health tracking**
+**Built with  for better mental health tracking**

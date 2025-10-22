@@ -279,4 +279,4 @@ For support, email support@moodscape.app or create an issue on GitHub.
 
 ---
 
-**Built with  for better mental health tracking**
+**Built with LOVE for better mental health tracking**
